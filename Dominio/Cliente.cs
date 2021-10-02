@@ -5,6 +5,6 @@ namespace Dominio
     {
         public string id { get; set; }
         public string telefono { get; set; }
-        public String preferencial { get; set;}
+        
     }
 }
