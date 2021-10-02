@@ -7,7 +7,7 @@ namespace Dominio
         public int edad { get; set; }
         public string telefono { get; set; }
         public string direccion { get; set; }
-        
+        public string ciudad { get; set; }
         
     }
 }
