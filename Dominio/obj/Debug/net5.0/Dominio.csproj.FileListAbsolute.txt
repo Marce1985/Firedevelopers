@@ -10,3 +10,15 @@ C:\Users\Rosalba\OneDrive\Documents\marce\Ucaldas\Ciclo 3\Programaicion\Empresa\
 C:\Users\Rosalba\OneDrive\Documents\marce\Ucaldas\Ciclo 3\Programaicion\Empresa\Dominio\obj\Debug\net5.0\Dominio.dll
 C:\Users\Rosalba\OneDrive\Documents\marce\Ucaldas\Ciclo 3\Programaicion\Empresa\Dominio\obj\Debug\net5.0\ref\Dominio.dll
 C:\Users\Rosalba\OneDrive\Documents\marce\Ucaldas\Ciclo 3\Programaicion\Empresa\Dominio\obj\Debug\net5.0\Dominio.pdb
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\bin\Debug\net5.0\Dominio.deps.json
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\bin\Debug\net5.0\Dominio.dll
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\bin\Debug\net5.0\Dominio.pdb
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\obj\Debug\net5.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\obj\Debug\net5.0\Dominio.dll
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+C:\Users\MARIA TERESA\Documents\gitMaría\Firedevelopers\Dominio\obj\Debug\net5.0\Dominio.pdb

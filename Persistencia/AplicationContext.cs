@@ -15,11 +15,11 @@ namespace Persistencia
 
         //Conexion
         private const string connectionString = @"Data Source=localhost\sqlexpress;Initial Catalog =Empresa;Integrated Security = True";
-          protected override void OnConfiguring(DbContextOptionsBuilder optionBuilder){
-              if(!optionBuilder.IsConfigured){
-                  optionBuilder
-                  .UseSqlServer(connectionString);
-              }
-          }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionBuilder){
+        if(!optionBuilder.IsConfigured){
+        optionBuilder
+        .UseSqlServer(connectionString);
+        }
+        }
     }
 }

@@ -5833,19 +5833,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rosalba\\.nuget\\packages\\": {}
+    "C:\\Users\\MARIA TERESA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rosalba\\OneDrive\\Documents\\marce\\Ucaldas\\Ciclo 3\\Programaicion\\Empresa\\Aplicacion\\Aplicacion.csproj",
+      "projectUniqueName": "C:\\Users\\MARIA TERESA\\Documents\\gitMaría\\Firedevelopers\\Aplicacion\\Aplicacion.csproj",
       "projectName": "Aplicacion",
-      "projectPath": "C:\\Users\\Rosalba\\OneDrive\\Documents\\marce\\Ucaldas\\Ciclo 3\\Programaicion\\Empresa\\Aplicacion\\Aplicacion.csproj",
-      "packagesPath": "C:\\Users\\Rosalba\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rosalba\\OneDrive\\Documents\\marce\\Ucaldas\\Ciclo 3\\Programaicion\\Empresa\\Aplicacion\\obj\\",
+      "projectPath": "C:\\Users\\MARIA TERESA\\Documents\\gitMaría\\Firedevelopers\\Aplicacion\\Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\MARIA TERESA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MARIA TERESA\\Documents\\gitMaría\\Firedevelopers\\Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rosalba\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\MARIA TERESA\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -5857,8 +5857,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Rosalba\\OneDrive\\Documents\\marce\\Ucaldas\\Ciclo 3\\Programaicion\\Empresa\\Persistencia\\Persistencia.csproj": {
-              "projectPath": "C:\\Users\\Rosalba\\OneDrive\\Documents\\marce\\Ucaldas\\Ciclo 3\\Programaicion\\Empresa\\Persistencia\\Persistencia.csproj"
+            "C:\\Users\\MARIA TERESA\\Documents\\gitMaría\\Firedevelopers\\Persistencia\\Persistencia.csproj": {
+              "projectPath": "C:\\Users\\MARIA TERESA\\Documents\\gitMaría\\Firedevelopers\\Persistencia\\Persistencia.csproj"
             }
           }
         }
@@ -5893,7 +5893,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
